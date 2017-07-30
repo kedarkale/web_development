@@ -1,0 +1,21 @@
+.navbar{
+  height: 10%;
+}
+
+.navbar .navbar-brand{
+  width: 15%;
+  background: #0092c4;
+  padding-left: 50px;
+  padding-top: 20px;
+  color: #fff;
+  font-size: 30px;
+  height: 100%;
+}
+
+.jumbotron{
+  padding-left: 22%;
+}
+
+body{
+  background-color: #a9c400;
+}
